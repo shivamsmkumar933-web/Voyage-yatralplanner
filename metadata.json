@@ -1,0 +1,6 @@
+{
+  "name": "Voyage",
+  "description": "Travel planner and local discovery assistant with destinations, flights, and hotels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
